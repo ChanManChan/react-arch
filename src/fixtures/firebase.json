@@ -1,0 +1,37 @@
+{
+  "series": [
+    {
+      "id": "asodnaojsdn918oiqsd",
+      "title": "Tiger King",
+      "description": "An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.",
+      "genre": "documentaries",
+      "maturity": 18,
+      "slug": "tiger-king"
+    },
+    {
+      "id": "ajsnd198uasdaaoisd9d1",
+      "title": "Amanda Knox",
+      "description": "Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.",
+      "genre": "documentaries",
+      "maturity": 12,
+      "slug": "amanda-knox"
+    }
+  ],
+  "films": [
+    {
+      "id": "aslj1asdu1asdpi01moas",
+      "title": "The Prestige",
+      "description": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but with terrible consequences.",
+      "genre": "drama",
+      "maturity": 15,
+      "slug": "the-prestige"
+    },
+    {
+      "title": "Fight Club",
+      "description": "Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
+      "genre": "drama",
+      "maturity": 15,
+      "slug": "fight-club"
+    }
+  ]
+}
